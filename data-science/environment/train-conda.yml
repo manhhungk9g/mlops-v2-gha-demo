@@ -6,6 +6,7 @@ dependencies:
   - python=3.7.5
   - pip
   - pip:
+      - azureml-inference-server-http==1.0.0
       - azureml-mlflow==1.38.0
       - azure-ai-ml==1.0.0
       - pyarrow==10.0.0
